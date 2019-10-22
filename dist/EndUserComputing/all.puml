@@ -7,11 +7,11 @@ m9l0iFvo02wys9VuMLM7irMtVhIBEpZF-pRMoQRsV7YQExU4pnCuRmFUPo3zMC978FnejQmdSE9N4N2U
 0tWRm6S0RmFu3E1bOE8pWBU1WS_04Iy3hVPfeE5b09y1l0xKnPj9RymBDzFQFsAFFVO6
 }
 
-AWSEntityColoring(Appstream2.0)
-!define Appstream2.0(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, Appstream2.0, Appstream2.0)
-!define Appstream2.0(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, Appstream2.0, Appstream2.0)
-!define Appstream2.0Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, Appstream2.0, Appstream2.0)
-!define Appstream2.0Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, Appstream2.0, Appstream2.0)
+AWSEntityColoring(Appstream20)
+!define Appstream20(e_alias, e_label, e_techn) AWSEntity(e_alias, e_label, e_techn, #1C7B68, Appstream20, Appstream20)
+!define Appstream20(e_alias, e_label, e_techn, e_descr) AWSEntity(e_alias, e_label, e_techn, e_descr, #1C7B68, Appstream20, Appstream20)
+!define Appstream20Participant(p_alias, p_label, p_techn) AWSParticipant(p_alias, p_label, p_techn, #1C7B68, Appstream20, Appstream20)
+!define Appstream20Participant(p_alias, p_label, p_techn, p_descr) AWSParticipant(p_alias, p_label, p_techn, p_descr, #1C7B68, Appstream20, Appstream20)
 
 sprite $EndUserComputing [64x64/16z] {
 xTO5OiCm38NX9x8bvVxd7HNS5AECj_nb-CA4xsgB3gy4QTKCuE7RbCLYxlEZ_EOtt-rQpHVw1j2LWBRCisJ6HHd2opnPNcjIgdhtoD131DLUyCu0JC0ZebZi
